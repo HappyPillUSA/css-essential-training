@@ -137,7 +137,16 @@ header li {
 .work {
     background-color: #fff8dc;
 }
+/* Grip containee*/
+.work-item {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-column-gap: 20px;
+}
 
+/* grip items -not style yet-
+.Company {}
+.description {}*/
 
 
 /* education
