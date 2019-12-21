@@ -76,8 +76,8 @@ h3 {
 
 
 .content-wrap {
-  /*max-width:880px;*/
-    width: 800px;
+    max-width:880px;
+    width: 80%;
     margin: 0 auto;
     padding: 60px 0;
 }
