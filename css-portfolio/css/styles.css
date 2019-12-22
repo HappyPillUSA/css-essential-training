@@ -174,7 +174,10 @@ header li {
 /* education
 -------------------------*/
 .education {
-    background-color: #e6e6fa;
+ /*background-color: #e6e6fa;*/
+  background: url(/images/annie-spratt-unsplash.jpg) #e6e6fa no-repeat;
+  background-size: cover;
+
 }
 
 
